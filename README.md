@@ -1,2 +1,3 @@
 # codeforces
-Codeforces solutions
+
+[Codeforces](https://codeforces.com/) solutions
