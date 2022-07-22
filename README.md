@@ -2,10 +2,6 @@
 
 [Codeforces](https://codeforces.com/) solutions
 
-## Contests
+## Contests Done
 
-### 1
-
--   A: Theatre Square -> It was easy enough.
--   B: Spreadsheet -> One way of changing the letters is easier than the other way.
--   C: Ancient Berland Circus -> I had to look the solution up because the idea of it being a very geometry based.
+-   1: Codeforces Beta Round #1 - 22/06/2022
